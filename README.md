@@ -1,6 +1,6 @@
 # Asteroids - Packages
 
-## Naming convention for NPM packages.
+## Naming convention for packages.
 
 "Asteroids, sometimes called minor planets, are rocky, airless remnants left over from the early formation of our solar system about 4.6 billion years ago."
 
