@@ -1,0 +1,9 @@
+[submodule "Pallas"]
+	path = Pallas
+	url = git@github.com:JoshDanielWalker/Pallas.git
+[submodule "Juno"]
+	path = Juno
+	url = git@github.com:JoshDanielWalker/Juno.git
+[submodule "Vesta"]
+	path = Vesta
+	url = git@github.com:JoshDanielWalker/Vesta.git
