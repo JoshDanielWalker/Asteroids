@@ -1,4 +1,4 @@
-# Asteroids - NPM Packages
+# Asteroids - Packages
 
 ## Naming convention for NPM packages.
 
